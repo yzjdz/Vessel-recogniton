@@ -9,3 +9,11 @@ Our database has a total of 16 types of ships,ie:bulk freighter,ro-ro ship,Conta
 Due to copyright factors, we have only published a portion of the data set.you can get it by:https://1drv.ms/u/s!Akh-8dX-yfy-gxJz-UGNAaOfk6MS
 If you need all the data sets, please contact us ：huangjing@whut.edu.cn
 A part of our vessel dataset is shown below
+
+![](https://github.com/yzjdz/Vessel-recogniton/blob/master/img/example.png?raw=true)
+
+
+
+Models
+-----
+Using a collection of videos and images with vessel type labels, we train three neural network models to recognition vessel types and we obtained the TOP-1 97.119% accuracy by using our neural network models in vessel validation dataset.Our models Caffe Implementation.
