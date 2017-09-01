@@ -18,4 +18,4 @@ A part of our vessel dataset is shown below
 
 Models
 -----
-Using a collection of videos and images with vessel type labels, we train three neural network models to recognition vessel types and we obtained the TOP-1 97.119% accuracy by using our neural network models in vessel validation dataset.Our models [Caffe Implementation](https://1drv.ms/f/s!Akh-8dX-yfy-gx3u9kInAYcBIqVs)
+Using a collection of videos and images with vessel type labels, we train three neural network models to recognition vessel types and we obtained the TOP-1 97.119% accuracy by using our neural network models in vessel validation dataset.Our models [Caffe Implementation](https://1drv.ms/f/s!Akh-8dX-yfy-gx5tCWsnDzjHPIXr)
